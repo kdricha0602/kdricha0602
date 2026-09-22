@@ -1,6 +1,6 @@
 # Hi, I'm Korben Richards 👋
 
-Commercial handyman by trade, builder by nature. After 11+ years of working with my backbone in construction and facility maintenance, I'm transitioning to working with my mind — teaching myself technology by building real tools I actually use every day.
+Commercial handyman by trade, builder by nature. After 16+ years of working with my backbone in construction and facility maintenance, I'm transitioning to working with my mind — teaching myself technology by building real tools I actually use every day.
 
 ## What I build
 
